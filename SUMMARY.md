@@ -11,3 +11,5 @@
 * [Unidad 5: Elaboración de diagramas de clases](5.DIAGRAMAS_CLASES.md)
 
 * [Unidad 6: Elaboración de diagramas de comportamiento](6.DIAGRAMAS_COMPORTAMIENTO.md)
+
+* [Unidad 7: Hagamos programas de ejemplo](7.Programas de ejemplo.md)
